@@ -1,0 +1,8 @@
+# PyTorch
+*.pth
+*.pth.tar
+saved_images/
+mycheckpoint.pth.tar
+
+# Dataset folder (CRITICAL: Do not upload large data files)
+data/
